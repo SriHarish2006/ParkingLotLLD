@@ -199,7 +199,7 @@ This project demonstrates:
 **Sri Harish S**
 
 - GitHub: https://github.com/SriHarish2006
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: linkedin.com/in/sri-harish-03219432b
 
 ---
 
