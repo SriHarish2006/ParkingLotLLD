@@ -197,7 +197,13 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Sri Harish S**
+Computer Science and Engineering Student
 
+Specialization:
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Full Stack Development
 - GitHub: https://github.com/SriHarish2006
 - LinkedIn: linkedin.com/in/sri-harish-03219432b
 
