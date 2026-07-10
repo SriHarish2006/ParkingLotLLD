@@ -204,8 +204,9 @@ Specialization:
 - Machine Learning
 - Data Analytics
 - Full Stack Development
-- GitHub: https://github.com/SriHarish2006
-- LinkedIn: linkedin.com/in/sri-harish-03219432b
+  
+  GitHub: https://github.com/SriHarish2006
+  LinkedIn: linkedin.com/in/sri-harish-03219432b
 
 ---
 
