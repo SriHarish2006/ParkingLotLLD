@@ -2,6 +2,12 @@
 
 A Java-based Parking Lot Management System designed using Object-Oriented Programming (OOP) principles and Low-Level Design (LLD) concepts.
 
+## 📷 Project Output
+
+### Parking Lot Management System
+
+![Parking Lot Demo](screenshots/parking-demo.png)
+
 ## 📌 Features
 
 - Multi-floor parking lot support
@@ -194,12 +200,6 @@ This project demonstrates:
 
 ---
 
-## 📷 Project Output
-
-### Parking Lot Management System
-
-![Parking Lot Demo](screenshots/parking-demo.png)
-
 ## 👨‍💻 Author
 
 **Sri Harish S**
@@ -213,9 +213,3 @@ Specialization:
   
   GitHub: https://github.com/SriHarish2006
   LinkedIn: linkedin.com/in/sri-harish-03219432b
-
----
-
-## 📄 License
-
-This project is created for educational and interview preparation purposes.
