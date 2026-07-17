@@ -194,6 +194,12 @@ This project demonstrates:
 
 ---
 
+## 📷 Project Output
+
+### Parking Lot Management System
+
+![Parking Lot Demo](screenshots/parking-demo.png)
+
 ## 👨‍💻 Author
 
 **Sri Harish S**
