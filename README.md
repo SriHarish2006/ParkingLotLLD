@@ -211,5 +211,4 @@ Specialization:
 - Data Analytics
 - Full Stack Development
   
-  GitHub: https://github.com/SriHarish2006
-  LinkedIn: linkedin.com/in/sri-harish-03219432b
+  LinkedIn:linkedin.com/in/sri-harish-03219432b
