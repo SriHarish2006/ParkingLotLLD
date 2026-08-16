@@ -211,4 +211,5 @@ Specialization:
 - Data Analytics
 - Full Stack Development
   
-  LinkedIn:linkedin.com/in/sri-harish-03219432b
+  LinkedIn:[linkedin.com/in/sri-harish-03219432b
+](https://www.linkedin.com/in/sri-harish-03219432b/)
